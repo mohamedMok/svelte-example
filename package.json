@@ -25,6 +25,6 @@
 		"@mozaic-ds/css-dev-tools": "^1.65.0",
 		"@mozaic-ds/styles": "^1.67.0",
 		"@mozaic-ds/tokens": "^1.67.0",
-		"@mozaic-ds/web-components": "^0.15.0"
+		"@mozaic-ds/web-components": "^0.28.1"
 	}
 }
